@@ -15,7 +15,7 @@
   /* transform: rotateX(180deg); */
   transition: top 2s ease-in-out, left 2s ease-in-out;
   pointer-events: none;
-  z-index: 1000;
+  z-index: 10;
    filter: drop-shadow(0 0 10px rgba(246, 255, 0, 0.8))
           drop-shadow(0 0 20px rgba(43, 1, 43, 0.6))
           brightness(1.2); 
