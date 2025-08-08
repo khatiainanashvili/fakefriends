@@ -8,6 +8,7 @@ const realImages = [
   "images/real/real5.mov",
   "images/real/real6.MOV",
   "images/real/real7.mp4",
+  "images/real/real8.MOV",
 ];
 
 const RealMemories = () => {
